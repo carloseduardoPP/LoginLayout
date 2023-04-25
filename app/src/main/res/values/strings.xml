@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginLayout</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="tvCadastro">Ainda nao é cadastrado? Cadastre-se!</string>
+    <string name="tvSupport">Esqueceu a sua senha?</string>
+</resources>
